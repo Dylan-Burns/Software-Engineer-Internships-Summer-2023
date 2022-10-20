@@ -34,13 +34,11 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 
 [Software Development Engineer Intern - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2110678/software-development-engineer-internship-2023-us)
 
-### Facebook
-
-### Meta
-
 ### Apple
 
 ### Microsoft
+[Silicon Engineer Intern - University Grads](https://careers.microsoft.com/us/en/job/1381681/Silicon-Engineer-Intern-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)
+
 
 ### Netflix
 
