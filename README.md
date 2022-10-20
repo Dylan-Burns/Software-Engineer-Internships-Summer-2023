@@ -46,4 +46,6 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 
 [Software Engineer Intern - Summer 2023 - Los Angeles, CA - BS](https://jobs.netflix.com/jobs/234866639)
 
-### Intel
+### Slack
+
+[Data Science Intern - Summer 2023 - BS](https://university-uber.icims.com/jobs/118325/job?iis=marketing&iisn=Indeed&iisp=organic&rx_campaign=indeed0&rx_group=129666&rx_job=118325&rx_medium=cpc&rx_r=none&rx_source=indeed&rx_ts=20221020T185602Z&iis=marketing&iisn=indeed&iisp=organic&rx_p=G0TFTGD2GJ&rx_viewer=9a56370550b411ed946de14ebc55dc8e8f0a200c05184a669bbac575a0a0a454&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420)
