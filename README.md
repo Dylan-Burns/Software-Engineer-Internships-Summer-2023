@@ -33,3 +33,15 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 [User Experience (UX) Designer Intern - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2141735/user-experience-ux-designer-internship-2023)
 
 [Software Development Engineer Intern - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2110678/software-development-engineer-internship-2023-us)
+
+### Facebook
+
+### Meta
+
+### Apple
+
+### Microsoft
+
+### Netflix
+
+### Intel
