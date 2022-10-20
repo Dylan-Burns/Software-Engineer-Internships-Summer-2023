@@ -42,4 +42,6 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 
 ### Netflix
 
+[Software Engineer Intern - Summer 2023 - BS](https://jobs.netflix.com/jobs/234866639)
+
 ### Intel
