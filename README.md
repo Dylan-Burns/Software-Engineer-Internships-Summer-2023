@@ -23,8 +23,13 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 
 ### Amazon
 [Software Development Engineer In Test Intern - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2220337/software-development-engineer-in-test-internship-2023-us)
+
 [Co-Op Software Developement Engineer - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2219897/co-op-software-development-engineer-2023-us)
+
 [Front End Engineer Intern - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2141835/front-end-engineer-internship-2023-us)
+
 [User Experience (UX) Researcher Intern - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2141799/user-experience-ux-researcher-intern-2023-us)
+
 [User Experience (UX) Designer Intern - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2141735/user-experience-ux-designer-internship-2023)
+
 [Software Development Engineer Intern - Summer 2023 - BS](https://www.amazon.jobs/en-gb/jobs/2110678/software-development-engineer-internship-2023-us)
