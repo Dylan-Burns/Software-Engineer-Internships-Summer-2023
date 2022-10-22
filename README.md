@@ -82,6 +82,6 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 
 [User Experience I intern - Summer 2023 - BS](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-I-Intern-United-States/1380755?source=LinkedIn&user=1)
 
-[User Experience I intern - Summer 2023 - BS](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-II-Intern-United-States/1380763?source=LinkedIn&user=1)
+[User Experience II intern - Summer 2023 - BS](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-II-Intern-United-States/1380763?source=LinkedIn&user=1)
 
 [Test Automation Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Test-Automation-Engineer-Summer-2023-Internship-Meraki/1378081?source=LinkedIn&user=1)
