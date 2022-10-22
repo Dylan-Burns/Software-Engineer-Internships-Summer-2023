@@ -58,4 +58,6 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 
 [Software Engineer Intern - Summer 2023 - BS](https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR133391EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn&step=1)
 
+### Qualcomm
 
+[Software Engineer Intern - Summer 2023 - BS](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineering-Internship---Summer-2023_3042986?source=APPLICANT_SOURCE-6-2)
