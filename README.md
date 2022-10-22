@@ -61,3 +61,5 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 ### Qualcomm
 
 [Software Engineer Intern - Summer 2023 - BS](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineering-Internship---Summer-2023_3042986?source=APPLICANT_SOURCE-6-2)
+
+[Information Technology Intern - Summer 2023 - BS](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Information-Technology-Internship---Summer-2023_3043001)
