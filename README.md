@@ -65,3 +65,13 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 [Information Technology Intern - Summer 2023 - BS](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Information-Technology-Internship---Summer-2023_3043001)
 
 [Multimedia Engineering Intern - Summer 2023 - BS](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Multimedia-Engineering-Internship---Summer-2023_3042992)
+
+### Roblox
+
+[Software Engineer Intern - Summer 2023 - BS](https://jobs.roblox.com/careers/search?pid=137451585492&domain=roblox.com)
+
+[Software Engineer - New Grad - Sumemr 2023 - BS](https://jobs.roblox.com/careers/search?pid=137451388296&domain=roblox.com)
+
+### Cisco
+
+[Software Engineer Intern - Summer 2023 - BS](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1380727?user=1)
