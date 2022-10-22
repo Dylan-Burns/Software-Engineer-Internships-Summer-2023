@@ -53,3 +53,9 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 ### Omada Health
 
 [Software Engineer Intern (Android) - Summer 2023 - BS](https://boards.greenhouse.io/omadahealth/jobs/4485984?gh_src=a39e42df1us)
+
+### Adobe
+
+[Software Engineer Intern](https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR133391EXTERNALENUS&utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn&step=1)
+
+
