@@ -19,7 +19,12 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
  [User Experience Intern - Summer 2023](https://careers.google.com/jobs/results/97922120714986182-user-experience-intern-summer-2023/?degree=BACHELORS&degree=MASTERS&distance=50&employment_type=INTERN&location=Los%20Angeles,%20CA,%20USA&location=Mountain%20View,%20CA,%20USA&location=Palo%20Alto,%20CA,%20USA&location=San%20Francisco,%20CA,%20USA)
  
  [Student Reseacher - Summer 2023](https://careers.google.com/jobs/results/115667124648583878-student-researcher-bs-2023/?degree=BACHELORS&degree=MASTERS&distance=50&employment_type=INTERN&location=Los%20Angeles,%20CA,%20USA&location=Mountain%20View,%20CA,%20USA&location=Palo%20Alto,%20CA,%20USA&location=San%20Francisco,%20CA,%20USA)
- 
+
+### Microsoft
+
+[PM Intern - Summer 2023](https://careers.microsoft.com/us/en/job/1375725/Product-Management-Intern-Opportunities-for-University-Students?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)
+
+[Sfotware Engineer Intern - Summer 2023](https://careers.microsoft.com/students/us/en/job/1388845/Software-Engineering-Intern-Opportunities-for-University-Students-United-States)
 
 ### Amazon
 [Software Development Engineer In Test Intern - Summer 2023](https://www.amazon.jobs/en-gb/jobs/2220337/software-development-engineer-in-test-internship-2023-us)
@@ -71,6 +76,8 @@ A list of Software Engineer Internships for Summer 2023 with open Applications
 [Software Engineer Intern - Summer 2023](https://jobs.roblox.com/careers/search?pid=137451585492&domain=roblox.com)
 
 [Software Engineer - New Grad - Sumemr 2023](https://jobs.roblox.com/careers/search?pid=137451388296&domain=roblox.com)
+
+[PM Intern - Summer 2023](https://jobs.roblox.com/careers?gh_jid=4568012&gh_src=da92d0c91)
 
 ### Cisco
 
